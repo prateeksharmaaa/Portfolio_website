@@ -1,0 +1,243 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 793px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: FontsFree-Net-Dream-Avenue;
+  font-size: 6rem;
+  margin: 43px 54px 0 645px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 352px;
+  height: 496px;
+  margin: -195px auto 0 127px;
+}
+
+.u-section-1 .u-image-2 {
+  width: 101px;
+  height: 101px;
+  margin: -79px auto 0 76px;
+}
+
+.u-section-1 .u-rotation-parent-1 {
+  width: 101px;
+  height: 101px;
+  margin: -534px auto 0 439px;
+}
+
+.u-section-1 .u-image-3 {
+  width: 101px;
+  height: 101px;
+  transform-origin: center center 0px;
+  position: relative;
+  top: 0;
+  left: 0;
+  transform: rotate(180deg);
+}
+
+.u-section-1 .u-text-2 {
+  line-height: 1.42;
+  font-size: 2.25rem;
+  margin: 165px 76px 0 645px;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.5rem;
+  font-family: "Abril Fatface";
+  margin: 58px 39px 0 659px;
+}
+
+.u-section-1 .u-btn-1 {
+  letter-spacing: 1px;
+  font-size: 0.875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  border-style: solid;
+  margin: 54px 76px 60px auto;
+  padding: 9px 155px 10px 154px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 50vw;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+    width: auto;
+    margin-top: 59px;
+    margin-right: 90px;
+    margin-left: 498px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -125px;
+    margin-left: 63px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 79px;
+    height: 82px;
+    margin-top: -52px;
+    margin-left: 11px;
+  }
+
+  .u-section-1 .u-rotation-parent-1 {
+    width: 79px;
+    height: 82px;
+    margin-top: -994px;
+    margin-left: 387px;
+  }
+
+  .u-section-1 .u-image-3 {
+    width: 79px;
+    height: 82px;
+    top: 453px;
+    left: -453px;
+    margin: -537px auto 0 453px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: 509px;
+    margin-right: 169px;
+    margin-left: 498px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+    margin-top: 29px;
+    margin-right: 11px;
+    margin-left: 487px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 50px;
+    margin-right: 90px;
+    padding-top: 10px;
+    padding-right: 127px;
+    padding-left: 126px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1283px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 278px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 20px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: 991px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -571px;
+    margin-right: 146px;
+    margin-left: 301px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 20px;
+    margin-right: 0;
+    margin-left: 278px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 285px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+    margin-top: 85px;
+    margin-left: 98px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: 743px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-left: 439px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -339px;
+    margin-left: 121px;
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 1rem;
+    margin-left: 98px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 289px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 455px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+    margin-top: 20px;
+    margin-right: -108px;
+    margin-left: 198px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 261px;
+    width: 170px;
+    margin-top: -78px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: 1290px;
+  }
+
+  .u-section-1 .u-rotation-parent-1 {
+    margin-left: 261px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-left: 239px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1rem;
+    margin-top: -633px;
+    margin-right: 28px;
+    margin-left: 198px;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 0.75rem;
+    margin-top: 28px;
+    margin-right: 20px;
+    margin-left: 198px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin: 28px -12px 0;
+  }
+}@font-face {
+  font-family: 'FontsFree-Net-Dream-Avenue';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/FontsFree-Net-Dream-Avenue.ttf);
+}
